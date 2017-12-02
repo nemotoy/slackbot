@@ -5,7 +5,7 @@ import (
   "os"
 
   "github.com/nlopes/slack"
-  "slackbot_go/config"
+  "slackbot/config"
   "github.com/BurntSushi/toml"
 )
 
